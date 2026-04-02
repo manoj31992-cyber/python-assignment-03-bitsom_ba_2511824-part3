@@ -3,8 +3,6 @@ Product Explorer & Error-Resilient Logger
 Complete solution for all 4 tasks.
 """
 
-import requests
-from datetime import datetime
 
 # ─────────────────────────────────────────────
 # HELPER: Logger
